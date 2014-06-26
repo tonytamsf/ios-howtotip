@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tonytamsf/ios-howtotip.svg?branch=master)](https://travis-ci.org/tonytamsf/ios-howtotip)
+
 iOS Simple Tip Calculator
 ======================
 This is the exact same functionality as the Android version https://github.com/tonytamsf/AndroidHowToTipApp
